@@ -1,16 +1,36 @@
-### Hi there 👋
+## Social 
 
-<!--
-**Finoozer/finoozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:globe_with_meridians: [Bookmark Collection](https://finoozer.github.io/)
 
-Here are some ideas to get you started:
+:email: filip [at] novotny [dot] com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GITHUB](https://img.shields.io/github/followers/Finoozer?style=social)
+
+![TWITTER](https://img.shields.io/twitter/follow/finoozer?label=Follow)
+
+[Session](https://getsession.org/): >> [ID](https://drive.google.com/file/d/1-8FbW1phd9E3ONv2IjbDs-NTdU_teTAB/view?usp=sharing)
+
+
+## Projects
+
+- [Article One](https://github.com/Finoozer/article-one)
+
+    How I forcefully implement logic into everyday life
+
+- [PyPassGen](https://github.com/Finoozer/pypassgen)
+
+    Password generator
+
+- [PyPanel](https://github.com/Finoozer/pypanel-client)
+
+    (Unfinished) GUI wrapper for custom subapps, based on DearPyGUI framework
+
+
+## Hobbies // Interests
+
+- 3D Modeling
+- Electrical Engineering
+- IoT
+- DIY
+- Scripting (preferably in Python)
+- Gaming
