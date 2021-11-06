@@ -1,5 +1,8 @@
+## :chart_with_upwards_trend: Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finoozer&count_private=true&show_icons=true&theme=jolly&border_radius=15&custom_title=Finoozer%27s+GitHub+Stats)
 
+------
 ------
 
 ## :star: Project highlights 
@@ -9,6 +12,7 @@
 [![PyPassGen](https://github-readme-stats.vercel.app/api/pin/?username=Finoozer&repo=pypassgen&theme=shades-of-purple)](https://github.com/Finoozer/pypassgen)
 [![PyPanel](https://github-readme-stats.vercel.app/api/pin/?username=Finoozer&repo=pypanel-client&theme=shades-of-purple)](https://github.com/Finoozer/pypanel-client)
 
+------
 ------
 
 ## :envelope: Social
@@ -22,6 +26,7 @@
 | ![Wire](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)                                          | @finoozer                                                                                                                                                  |
 
 ------
+------
 
 ## :wrench: Techstack
 
@@ -32,7 +37,8 @@
 | ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)            | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)       |
 | ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)            | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)   |
 
-------------------
+------
+------
 
 ## :ok_hand: Hobbies
 
