@@ -48,3 +48,8 @@
 | ![EE](https://img.shields.io/badge/El._Engineering-000000?style=for-the-badge) | ![InfoSec](https://img.shields.io/badge/InfoSec-000000?style=for-the-badge) |
 | ![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge)                   | ![Gaming](https://img.shields.io/badge/Gaming-000000?style=for-the-badge)   |
 
+------
+------
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffinoozer&count_bg=%2379C83D&title_bg=%235E5E5E&icon=&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
